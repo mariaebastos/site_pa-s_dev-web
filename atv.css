@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #003366;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: #8b0000;
+  }
+  
+  p, pre {
+    font-size: 18px;
+  }
+  
+  img {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table, th, td {
+    border: 2px solid #000;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #dcdcdc;
+  }
+  
